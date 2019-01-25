@@ -2,7 +2,7 @@
 
 **TippyCalc** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Brian Martinez**
 
 Time spent: **1** hours spent in total
 
